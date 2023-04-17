@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        td {
+            border: 1px solid black;
+        }
+        .line {
+            border-left: 1px solid black;
+            height: 100%;
+        }
+        .vertical-line {
+            border-left: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <table border="1px" width="400px">
+        <tr>
+            <td colspan="2" width = "100%"><h1>1</h1></td>
+        </tr>
+        <tr>
+            <td rowspan="3" class="line"><h1>2</h1></td>
+            <td class="vertical-line"><h1>3</h1></td>
+        </tr>
+        <tr>
+            <td class="vertical-line"><h1>5</h1></td>
+        </tr>
+    </table>
+</body>
+</html>
