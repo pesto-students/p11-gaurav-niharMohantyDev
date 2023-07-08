@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1. What is a protocol stack, and how is it used in web development?
 
 Ans - A protocol stack, also known as a network stack or internet stack, is a set of protocols that work together to enable
@@ -132,7 +131,6 @@ Ans - Search Engine Optimization (SEO) is the process of improving the visibilit
         In conclusion, SEO is an important aspect of web development as it can drive more organic traffic to a website by improving 
         its visibility and relevance on search engine results pages. Web developers can optimize their websites for better search engine 
         rankings by conducting keyword research, on-page optimization, optimizing site architecture and navigation, mobile optimization,
-=======
 1. What is a protocol stack, and how is it used in web development?
 
 Ans - A protocol stack, also known as a network stack or internet stack, is a set of protocols that work together to enable
@@ -266,5 +264,4 @@ Ans - Search Engine Optimization (SEO) is the process of improving the visibilit
         In conclusion, SEO is an important aspect of web development as it can drive more organic traffic to a website by improving 
         its visibility and relevance on search engine results pages. Web developers can optimize their websites for better search engine 
         rankings by conducting keyword research, on-page optimization, optimizing site architecture and navigation, mobile optimization,
->>>>>>> niharDev
          page speed optimization, and building backlinks and social signals.
